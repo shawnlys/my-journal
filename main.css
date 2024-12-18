@@ -20,3 +20,8 @@
 .content {
   padding: 16px;
 }
+
+.responsive {
+  width: 670px;
+  height: auto;
+}
