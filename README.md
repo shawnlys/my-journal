@@ -30,6 +30,7 @@
   <div class="row">
     <div class="col-sm-4">
       <h3>Content 1</h3>
+      <img src="" alt="Content 01">
       <p>1st day in Auckland</p>
       <p>mao shu picked me up in Auckland International Airport</p>
     </div>
