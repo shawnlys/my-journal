@@ -17,11 +17,11 @@
 }
 
 /* Page content */
-.content {
+#content {
   padding: 16px;
 }
 
-.responsive {
+#responsive {
   width: 670px;
   height: auto;
 }
