@@ -16,9 +16,9 @@
 <body>
 
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
+  <a href="#Journal">Journal</a>
+  <a href="#Photography">Photography</a>
+  <a href="#About">About</a>
 </div>
 
 <div class="container-fluid p-5 bg-primary text-white text-center">
@@ -29,9 +29,9 @@
 <div class="container mt-5">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3>Content 1</h3>
+      <p>1st day in Auckland</p>
+      <p>mao shu picked me up in Auckland International Airport</p>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
