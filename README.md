@@ -27,24 +27,15 @@
 </div>
   
 <div class="container mt-5">
-  <div class="row">
-    <div class="col-sm-4">
-      <h3>Content 1</h3>
+  <h3>Content 1</h3>
       <img src="Screenshot 2024-12-18 142135.png" alt="Content 01" class="responsive">
       <p>1st day in Auckland</p>
       <p>mao shu picked me up in Auckland International Airport</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 2</h3>
+</div>
+ <div class="container mt-5">
+  <h3>Column 2</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 3</h3>        
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-  </div>
 </div>
 
 </body>
