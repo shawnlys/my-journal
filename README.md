@@ -26,7 +26,7 @@
   <p>Resize this responsive page to see the effect!</p> 
 </div>
   
-<div class="container mt-5">
+<div class="container mt-3">
   <h3>Content 1</h3>
       <img src="Screenshot 2024-12-18 142135.png" alt="Content 01" class="responsive">
       <p>1st day in Auckland</p>
